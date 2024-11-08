@@ -1,0 +1,15 @@
+Cliente: Roberto
+Dirección: Universidad de los andes
+----------------
+Hamburguesa    +Tomate                2000    -Cebolla            12000
+Combo Combo 1
+ Descuento: 0.1
+            22500
+Hamburguesa
+            10000
+Pizza
+            15000
+----------------
+Precio Neto:  59500
+IVA:          11305
+Precio Total: 70805
